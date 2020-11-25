@@ -22,17 +22,28 @@
 
 ##### 贴春联
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201125152141664.png" alt="image-20201125152141664" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/11/25/sDzG8jaVCvLPKoe.png" alt="image-20201125152141664" style="zoom:50%;" />
 
-<img src="C:\Users\Asce\AppData\Roaming\Typora\typora-user-images\image-20201125152212676.png" alt="image-20201125152212676" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/11/25/eY53p2UlacfZnxN.png" alt="image-20201125152212676" style="zoom:50%;" />
 
 贴春联的玩法是玩家自由选择自己认为正确的上联、下联和横批进行组合，之后系统会根据选择的结果进行评价
 
 ##### 接红包
 
-![image-20201125152414140](https://i.loli.net/2020/11/25/w2DHF1IQqAZrxGt.png)
+<img src="https://i.loli.net/2020/11/25/w2DHF1IQqAZrxGt.png" alt="image-20201125152414140" style="zoom:50%;" />
 
 天上会一直飘落不同面额的红包，玩家可以控制一口聚宝盆左右移动去接住红包。然而红包雨中也有可能混杂着鸡毛掸子，如果不小心接住了它们反而会倒扣玩家金币
 
+##### 猜灯谜
 
+<img src="https://i.loli.net/2020/11/25/PaFxmSCdR3pgDzq.png" alt="image-20201125153607496" style="zoom:50%;" />
 
+<img src="https://i.loli.net/2020/11/25/mQgt26Sx3AyR1Xj.png" alt="image-20201125153853832" style="zoom:50%;" />
+
+在元宵灯谜场景中，玩家置身于闹市，可以移动观看闹市的之景。同时玩家也可以点击悬挂在空中的灯笼，之后就会弹出猜灯谜的面板。成功猜出灯谜就能点亮这个灯笼
+
+##### 放风筝
+
+<img src="https://i.loli.net/2020/11/25/lO7AxMCbdBTKWpw.png" alt="image-20201125154219223" style="zoom:50%;" />
+
+重阳风筝场景，玩家就是一个纸鸢，可以在天空自由翱翔。但是平静的蓝天之下也是危机四伏，时不时就会窜出几只雄鹰。如果风筝不小心碰到了它们就会被无情地撕破。
